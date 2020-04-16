@@ -1,6 +1,10 @@
 const express = require("express");
 const app = express();
 
+// PACKAGE BY KHALEEL GIBRAN
+// ml2en ORIGINAL SCRIPT WRITTEN BY KAILASH NADH
+// CONVERTED TO NPM PACKAGE
+
 module.exports = {
   /*
 	(Phonemic) Romanization of Malayalam script

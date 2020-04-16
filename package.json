@@ -13,12 +13,12 @@
     "node": "12.x"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/hello-express"
+    "url": "https://github.com/khalby786/ml2en"
   },
   "license": "MIT",
   "keywords": [
-    "node",
-    "glitch",
-    "express"
+    "ml2en",
+    "malayalam",
+    "transliteration"
   ]
 }
