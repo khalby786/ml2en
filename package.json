@@ -1,6 +1,6 @@
 {
   "name": "ml2en",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "An algorithm to transliterate Malayalam script to Roman / Latin characters (commonly 'Manglish') with reasonable phonetic fairness",
   "main": "server.js",
   "scripts": {
