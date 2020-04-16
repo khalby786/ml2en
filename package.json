@@ -1,15 +1,12 @@
 {
-  "//1": "describes your app and its dependencies",
-  "//2": "https://docs.npmjs.com/files/package.json",
-  "//3": "updating this file will download and update your packages",
-  "name": "hello-express",
+  "name": "ml2en",
   "version": "0.0.1",
-  "description": "A simple Node app built on Express, instantly up and running.",
+  "description": "An algorithm to transliterate Malayalam script to Roman / Latin characters (commonly 'Manglish') with reasonable phonetic fairness",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "dependencies": {
+  "devDependencies": {
     "express": "^4.17.1"
   },
   "engines": {
